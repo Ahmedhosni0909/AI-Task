@@ -1,0 +1,9 @@
+after applying ( Logistic regression, Decision tree, KNN and Random forest) on the same dataset.
+accuracy :-
+- Accuracy of Logistic regression is 0.64
+-  Accuracy of Decision tree is 0.51
+- Accuracy of KNN is 0.375
+-  Accuracy of Random forest is 0.364
+
+ Which means that for diabeties dataset the best classification algorithm 
+  is (Logistic regression)
